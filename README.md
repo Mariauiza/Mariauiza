@@ -1,5 +1,5 @@
 
-### Oioi,Eu sou a Maria 👋
+### Oioi, Eu sou a Maria 👋
 
 - :books: Física Computacional - USP 
 - :memo: Aprofundnado: C# e Python 
@@ -9,7 +9,7 @@
 <div style="display: flex; flex-direction:row; justify-content:flex-start; align-itens:center;">
   <a href="https://github.com/Mariauiza">
   <img height="180em" width="410em" src="https://github-readme-stats.vercel.app/api?username=mariauiza&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="410em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karengoncalves8&layout=compact&langs_count=7&theme=aura"/>
+  <img height="180em" width="410em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariauiza&layout=compact&langs_count=7&theme=aura"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
