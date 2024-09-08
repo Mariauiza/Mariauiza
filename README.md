@@ -2,7 +2,7 @@
 ### Oioi, Eu sou a Maria 👋
 
 - :books: Física Computacional - USP 
-- :memo: Aprofundnado: C# e Python 
+- :memo: Linguagens estudadas no momento: C# e Python 
 - :zap: 🌱 🔭 😄
 
 ##
